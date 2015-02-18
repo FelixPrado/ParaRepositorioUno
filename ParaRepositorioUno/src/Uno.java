@@ -3,4 +3,5 @@ public class Uno {
 	int dosProp;
 	int tresProp;
 	int cuatroProp;
+	int seisProp;
 }
