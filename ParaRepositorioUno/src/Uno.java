@@ -6,4 +6,5 @@ public class Uno {
 	int cuatroProp;
 	int seisProp;
 	int sieteProp;
+	int ochoProp;
 }
